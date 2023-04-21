@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋                                                 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+
+## ![Lockpick Interactive Studios logo.](https://github.com/LockpickInteractive/branding/blob/main/lockpicksvg-svg.svg)
 
 <!--
 
